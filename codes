@@ -1,0 +1,15 @@
+.\venv\Scripts\activate
+uvicorn main:app --reload
+
+Update the API URL in your app to use this IP address, e.g.:
+http://<your-laptop-ip>:8000/upload/video
+Run your backend with:
+.\venv\Scripts\activate
+uvicorn main:app --host 0.0.0.0 --port 8000
+This makes the backend accessible from your phone.
+Test from your phone:
+Open the browser on your phone and try to access:
+http://<your-laptop-ip>:8000/
+If you see a response, the connection works.
+
+C:\Users\user\AppData\Local\Programs\Tesseract-OCR

@@ -1,0 +1,30 @@
+# -------------------------
+# PYTHON BACKEND IGNORE
+# -------------------------
+backend/venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/temp_uploads/
+backend/datasets/
+backend/debug_signatures/
+backend/*.txt
+backend/*.png
+backend/*debug*
+backend/*.pt
+
+# -------------------------
+# NODE / REACT NATIVE IGNORE
+# -------------------------
+mobile-app/node_modules/
+mobile-app/.expo/
+mobile-app/.expo-shared/
+mobile-app/.vscode/
+
+# -------------------------
+# GENERAL IGNORE
+# -------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.env

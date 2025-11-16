@@ -1,0 +1,8 @@
+features going to add:
+	1.in future we enhance to 
+		add multiple sign sheets
+		capture the sign sheen in the app
+		capture the video in the app
+		
+	2.face recognition attendance system
+	
